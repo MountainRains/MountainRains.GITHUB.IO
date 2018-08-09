@@ -1,4 +1,4 @@
 
 # Hello World
 
-My nae is GitHub_MountainRains
+My name is GitHub_MountainRains
